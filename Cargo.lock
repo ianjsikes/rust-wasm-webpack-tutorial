@@ -1,0 +1,4 @@
+[root]
+name = "rust-wasm-webpack-tutorial"
+version = "0.1.0"
+
