@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "compile": "webpack --progress",
-    "serve": "http-server"
+    "watch": "webpack --progress --watch",
+    "serve": "http-server -c-1"
   },
   "repository": {
     "type": "git",
